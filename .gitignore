@@ -1,0 +1,10 @@
+__pycache__
+.metals
+data
+gan-run-1
+lightning
+lightning_logs
+mlruns
+models
+run-2
+final
